@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/romai/OneDrive/Documents/Unreal Projects/SmallRTS/Content/StarterContent/Audio/Collapse01.uasset"
+				"C:/Users/romai/OneDrive/Documents/Unreal Projects/SmallRTS/Content/StarterContent/Audio/Collapse01.uasset",
+				"C:/Users/romai/OneDrive/Documents/Unreal Projects/SmallRTS/Content/TopDown/Blueprints/BP_PlayerPawn.uasset",
+				"C:/Users/romai/OneDrive/Documents/Unreal Projects/SmallRTS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/IA/FBUYCWGB0ISDFNHGCBAK4Z.uasset",
+				"C:/Users/romai/OneDrive/Documents/Unreal Projects/SmallRTS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/BU/KJHG31CRUBD2Y4BNRZP2B4.uasset",
+				"C:/Users/romai/OneDrive/Documents/Unreal Projects/SmallRTS/Content/TopDown/Input/Actions/IA_Zoom.uasset",
+				"C:/Users/romai/OneDrive/Documents/Unreal Projects/SmallRTS/Content/TopDown/Input/IMC_Default.uasset",
+				"C:/Users/romai/OneDrive/Documents/Unreal Projects/SmallRTS/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/romai/OneDrive/Documents/Unreal Projects/SmallRTS/Content/TopDown/Input/Actions/IA_RotateCamera.uasset"
 			]
 		}
 	]
